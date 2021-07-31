@@ -4,7 +4,7 @@ The aim of this algorithm is to capture slight moves in the bid/ask spread
 as they happen. It is only intended to work for high-volume stocks where there
 are frequent moves of 1 cent exactly.  It is one of the trading strategies
 based on order book imbalance. For more details about it, please refer to
-[Darryl Shen, 2015](http://eprints.maths.ox.ac.uk/1895/1/Darryl%20Shen%20%28for%20archive%29.pdf)
+[Darryl Shen, 2015](https://raw.githubusercontent.com/jmhenrique/example-hftish/master/Darryl%20Shen%20(for%20archive).pdf)
 or other online articles.
 
 This algorithm will make many trades on the same security each day, so any
